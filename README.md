@@ -7,8 +7,7 @@
 <br><br>
 
 ## 링크
-- - 프로젝트 보고서 👉 [프로젝트 이직그램 보고서.[업싸이클링#.pdf](https://github.com/user-attachments/files/20442033/default.pdf)
-pdf]()
+- 프로젝트 보고서 👉 [프로젝트 이직그램 보고서.pdf](https://github.com/user-attachments/files/20442033/default.pdf)
 <br><br>
 
  ## 💻 팀 소개
